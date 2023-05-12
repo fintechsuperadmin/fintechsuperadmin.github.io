@@ -1,0 +1,439 @@
+{
+    "login_side_title":"Where traditional banking holds you back, BC-FINTECH moves you forward.",
+    "login_side_title2":"Change the way you bank with a Current Account built for disruptors.",
+    "login_side_title3":"Fill out the details to Login :",
+    "login_side_Email":"E-mail",
+    "login_side_Password":"Password",
+    "login_side_Bottom_title":"Don't have an account?",
+    "email":"EMAIL",
+    "phone":"PHONE",
+    "sidebar_dashboard":"Dashboard",
+    "sidebar_transaction":"Transactions",
+    "sidebar_settlement":"Settlements",
+    "sidebar_paymentlink":"Payment Link",
+    "sidebar_report":"Reports",
+    "sidebar_account":"Account",
+    "sidebar_setting":"Settings",
+    "sidebar_country":"Countries",
+    "sidebar_merchant":"Merchants",
+    "register":{
+        "register_title":"Fill out the details to complete registration",
+        "register_First_Name":"First Name",
+        "register_Last_Name":"Last Name",
+        "register_Email":"Email",
+        "register_Mobile_Number":"Mobile Number",
+        "register_Business_Name":"Business Name",
+        "register_Business_Type":"Business Type",
+        "register_Country":"Country",
+        "register_State_provision":"State/provision",
+        "register_City":"City",
+        "register_Website_Link":"Website Link",
+        "register_Postal_Code":"Postal Code",
+        "register_Address_Line1":"Address Line 1 ",
+        "register_Address_Line2":"Address Line 2 ",
+        "register_Landmark":"Landmark",
+        "register_Password":"Password",
+        "register_Confirm_Pasword":"Confirm Pasword"
+    },
+    "sendotp":{
+     "sendotp_title":"Your Verification Number",
+     "sendotp_title1":"Please Enter Valid Number",
+     "sendotp_title2":"Already have an Account?"
+    },
+    "forgot":{
+        "forgot_title":"Fill out the details to forgot password :",
+        "forgot_Email":"E-mail"
+       },
+    "account":{"profile":{
+        "tab_title":"Profile",
+        "profile_company_details_title":"Company Details",
+        "profile_Business_Name":"Business Name",
+        "profile_Business_Type":"Business Type",
+        "profile_Website_Link":"Website Link",
+        "profile_Company_Since_Date":"Company Since Date",
+        "profile_Number_Of_Employee":"Number Of Employee",
+        "profile_Business_Description" :"Business Description",
+        "profile_User_Details_title1" :"User Details",
+        "profile_First_Name":"First Name",
+        "profile_Last_Name" :"Last Name",
+        "profile_Email":"Email",
+        "profile_Mobile_Number":"Mobile Number",
+        "profile_Landline_Number":"Landline Number",
+        "profile_Country":"Country",
+        "profile_State":"State", 
+        "profile_City":"City", 
+        "profile_Postal_Code":"Postal Code",
+        "profile_Address_Line1":"Address Line1",
+        "profile_Address_Line2":"Address Line2",
+        "profile_Landmark":"Landmark"
+    },
+    "kyc":{
+        "tab_title":"KYC Document",
+        "kyc_title":"KYC Details",
+        "kyc_Tax_Number":"Tax Number",
+        "kyc_Business_Pan":"Business Pan",
+        "kyc_Business_Registration_Proof":"Business Registration Proof"
+       
+    },
+    "bank":{
+        "tab_title":"Bank Details",
+        "Bank_title":"Bank Accounts Details"       
+    },
+    "reset":{
+        "tab_title":"Reset Password",
+        "reset_title":"Current password",
+        "reset_title1":"New password",  
+        "reset_title2":"Confirm New password"        
+    }
+
+
+},
+"dashboard":{
+    "dashboard_box_title1":"Total Merchants",
+    "dashboard_box_title2":"Total Settlement", 
+    "dashboard_box_title3":"Total No.of transaction", 
+    "dashboard_box_subtitle1":"Merchants", 
+    "dashboard_box_subtitle2":"Settlement",
+    "dashboard_box_subtitle3":"transaction", 
+    "dashboard_overview_title":"Overview",
+    "dashboard_overview_subtitle":"Your Current Balance",
+    "dashboard_overview_Yesterday_Balance":"(Yesterday Balance)", 
+    "dashboard_overview_Withdrow_Money":"Withdrow Money",   
+    "dashboard_Trasaction_tab_title":"Trasaction Statistics",
+    "dashboard_Trasaction_Today":"Today", 
+    "dashboard_Trasaction_This_Week":"This Week", 
+    "dashboard_Trasaction_This_Month":"This Month", 
+    "dashboard_Trasaction_Last_Months":"Last 3 Months", 
+    "dashboard_Trasaction_Last_Months1":"Last 6 Months",
+    "dashboard_Trasaction_Yesterday_Transaction":"0 Yesterday Transaction",
+    "dashboard_Trasaction_From_Qr_Code":"From Qr Code",
+    "dashboard_Trasaction_From_Event":"From Event",
+    "dashboard_Trasaction_Topup":"Topup",
+    "dashboard_Trasaction_Scan_Pay":"Scan & Pay",
+    "dashboard_Trasaction_Buy_Event":"Buy Event",
+    "dashboard_Trasaction_Customer_Wallet":"Customer Wallet",
+    "dashboard_Table_title":"Recent Trasaction List", 
+    "dashboard_Table_Transacation_Id":"Transacation Id",
+    "dashboard_Table_Amount":"Amount",  
+    "dashboard_Table_Email":"Email",  
+    "dashboard_Table_Contact":"Contact", 
+    "dashboard_Table_Created_At":"Created At",
+    "dashboard_Table_Status":"Status", 
+    "dashboard_Table_Action":"Action",  
+    "dashboard_pai_title":"Trasaction Stutas",
+    "dashboard_graph_title":"Transaction History Graph"  
+  },
+    "transactions":
+    {"list":{
+        "tab_title":"Transacation",
+        "list_Transacation_Id":"Transacation Id",
+        "list_Amount":"Amount",
+        "list_Email":"Email",
+        "list_Contact":"Contact",
+        "list_Created_At":"Created At",
+        "list_Status":"Status",
+        "list_Action":"Action"
+    },
+    "refunds":{
+        "tab_title":"Refunds",
+        "refunds_Id":"Refund Id",
+        "refunds_Transacation_Id":"Transacation Id",
+        "refunds_Amount":"Amount",
+        "refunds_Created_At":"Created At",
+        "refunds_Status":"Status"
+       
+    }, 
+    "order":{
+        "tab_title":"Orders",
+        "order_Id":"Orders Id",
+        "order_Ref_Id":"Order Ref Id",
+        "order_Payment_Ref_Id":"Payment Ref Id",
+        "order_Payment_Type":"Payment Type",
+        "order_Customer_Id":"Customer Id",
+        "order_Email":"Email",
+        "order_Name":"Name",
+        "order_Phone_Number":"Phone Number",
+        "order_Amount":"Amount",
+        "order_Created_At":"Created At",
+        "order_Action":"Action",
+        "order_Status":"Status"
+    },
+    "disputes":{
+        "tab_title":"Disputes",
+        "disputes_Id":"Dispute Id",
+        "disputes_Transacation_Id":"Transacation Id",
+        "disputes_Amount":"Amount",
+        "disputes_type":"Type",
+        "disputes_Respond_By":"Respond By",
+        "disputes_Created_At":"Created At",
+        "disputes_Action":"Action"
+    }},
+    
+    "settlements":{
+        "settlements_title":"Settlement List",
+        "settlements_Settlement_Id":"Settlement Id",
+        "settlements_Amount":"Amount",
+        "settlements_Fees":"Fees",
+        "settlements_Tax":"Tax",
+        "settlements_Created_At":"Created At",
+        "settlements_Status":"Status"
+    },
+    "paymentlink":{
+        "paymentlink_Refrence_Id":"Refrence Id",
+        "paymentlink_Link_id":"Link id",
+        "paymentlink_Payment_Link":"Payment Link",
+        "paymentlink_Link_Status":"Link Status",
+        "paymentlink_Link_Mode":"Link Mode",
+        "paymentlink_Link_Type":"Link Type",
+        "paymentlink_Amount":"Amount",
+        "paymentlink_Currency":"Currency",
+        "paymentlink_Payment_Type":"Payment Type",
+        "paymentlink_Partial_Payment":"Partial Payment",
+        "paymentlink_Customer_Name":"Customer Name",
+        "paymentlink_Contact_Number":"Contact Number",
+        "paymentlink_Contact_Email":"Contact Email",
+        "paymentlink_Expire_Date":"Expire Date",
+        "paymentlink_Created_At":"Created At"
+    },
+    "createpaymentlink":{
+        "createpaymentlink_title":"Create Payment Link",
+        "createpaymentlink_Refrence_Id":"Refrence Id",
+        "createpaymentlink_Link_Type":"Link Type",
+        "createpaymentlink_Amount":"Amount",
+        "createpaymentlink_Payment_For":"Payment For",
+        "createpaymentlink_Email":"Email",
+        "createpaymentlink_Mobile_Number":"Mobile Number",
+        "createpaymentlink_Notify_Via":"Notify Via",
+        "createpaymentlink_Partial_Payment":"Partial Payment",
+        "createpaymentlink_Link_Expiry":"Link Expiry",
+        "createpaymentlink_Expiry_Date":"Expiry Date",
+        "createpaymentlink_Notes":"Notes",
+        "createpaymentlink_title1":"Email",
+        "createpaymentlink_SMS":"SMS",
+        "createpaymentlink_Enable_Partial_Payment":"Enable Partial Payment",
+        "createpaymentlink_No_Expiry":"No Expiry",
+        "createpaymentlink_Close":"Close",
+        "createpaymentlink_Create_Link":"Create Link"
+    },
+    "reports":{
+        "reports_Custom_Date":"Custom Date",
+        "reports_Period_Type":"Period Type",
+        "reports_Report_Type":"Report Type",
+        "reports_Format":"Format"  
+    },
+
+
+    "setting":
+    {"webhook":{
+        "tab_title":"Webhooks",
+        "webhook_url":"URl",
+        "webhook_Event":"Events",
+        "webhook_Status":"Status",
+        "webhook_Last_Updated":"Last Updated",
+        "webhook_Add_webhook_details":"Add webhook details",
+        "webhook_Webhooks_Url":"Webhooks Url",
+        "webhook_Alert_Email":"Alert Email"
+    },
+    "api":{
+        "tab_title":"API Keys",
+        "api_Token":"Token",
+        "api_Created_At":"Created At",
+        "api_Action":"Action"
+       
+    }},
+    "validation":{
+        "email":{
+            "error1":"Please Enter Your Email Address",
+            "error2":"Enter a valid email address"
+        },
+        "password":{
+            "error1":"Password should contains 8 to 15 characters which contain at least one lowercase letter, one uppercase letter, one numeric digit, and one special character"
+        },
+        "package_phonenumber":{
+            "error1":"Please Enter Valid Number"
+        },
+        "mobilenumber":{
+            "error1":"Mobile Number Should Be  7 To 12 digit number"
+        },
+        "phonenumber":{
+            "error1":"Phone Number Should Be  7 To 12 digit number"
+        },
+        "passwordlogin":{
+            "error1":"Enter Valid Password"
+        },
+        "confirmpassword":{
+            "error1":"Confirm password should match to password"
+        },
+        "oldpassword":{
+            "error1":"Old Password should contains 8 to 15 characters which contain at least one lowercase letter, one uppercase letter, one numeric digit, and one special character"
+        },
+        "countrycode":{
+            "error1":"Please select a country code"
+        },
+        "fname":{
+            "error1":"Please Enter Your First Name",
+            "error2":"Only Enter Alphabet"
+        },
+        "lname":{
+            "error1":"Please Enter Your Last Name",
+            "error2":"Only Enter Alphabet"
+        },
+        "businessName":{
+            "error1":"Please Enter Your Business Name",
+            "error2":"Only Enter Alphabet"
+        },
+        
+        "businessType":{
+            "error1":"Please Enter Your Business Type",
+            "error2":"Only Enter Alphabet"
+        },
+        "websiteLink":{
+            "error1":"Please Enter Your Website Link",
+            "error2":"Only Enter Valid Link"
+        },
+
+        "Line1":{
+            "error1":"Please Enter Your Address Line1",
+            "error2":"Please Enter Address Like - Office No.-780"
+        },
+
+        "Landmark":{
+            "error1":"Please Enter Your Landmark",
+            "error2":"Please Enter Valid Land-Mark Like - Near TO Office No.-790"
+        },
+
+        "postalcode":{
+            "error1":"Please Enter Your Postal Code",
+            "error2":"Please Enter Valid Postal Code"
+        }, 
+        "country":{
+            "error1":"Please select a country"
+        },
+        "State":{
+            "error1":"Please Enter Your State",
+            "error2":"Only Enter Alphabet"
+        },
+
+        "city":{
+            "error1":"Please Enter Your City",
+            "error2":"Only Enter Alphabet"
+        },
+        "directorname":{
+            "error1":"Please Enter Director Name",
+            "error2":"Only Enter Alphabet"
+        },
+        "employeelength":{
+            "error1":"Please Enter Your Total Employee",
+            "error2":"Only Enter Numbers"
+        },
+        "startdate":{
+            "error1":"Please select a date"    
+        },
+        "businessdesc":{
+            "error1":"Please Enter Description More then 50 character"    
+        },
+        "taxnumber":{
+            "error1":"Please Enter Valid Tax Number"    
+        },
+        "bankname":{
+            "error1":"Please Enter Bank Name",
+            "error2":"Only Enter Alphabet"      
+        },
+        "beneficiaryname":{
+            "error1":"Please Enter Beneficiary Name",
+            "error2":"Only Enter Alphabet"      
+        },
+        "bankname2":{
+            "error1":"Please Enter Bank Name",
+            "error2":"Only Enter Alphabet"      
+        },
+        "beneficiaryname2":{
+            "error1":"Please Enter Beneficiary Name",
+            "error2":"Only Enter Alphabet"      
+        },
+        "accountnumber":{
+            "error1":"Please Enter Your Account Number",
+            "error2":"Only Enter Alphabet"      
+        },
+        
+        "accountnumber2":{
+            "error1":"Please Enter Your Account Number",
+            "error2":"Only Enter Alphabet"      
+        },
+          
+        "ifsc":{
+            "error1":"Please Enter Valid IFSC Number"      
+        },
+        "ifsc2":{
+            "error1":"Please Enter Valid IFSC Number"      
+        },
+        
+        "businessfile":{
+            "error1":"Please select a file",
+            "error2":"Please select only .png, .jpeg, .jpg, .pdf file"      
+        },
+
+        "panfile":{
+            "error1":"Please select a file",
+            "error2":"Please select only .png, .jpeg, .jpg, .pdf file"      
+        },
+        "Secret":{
+            "error1":"Please Enter a Secret Key",
+            "error2":"Only Enter Alphabet And Number"      
+        }
+
+    },
+    "sitesetting":{
+
+        "sitesetting_title":"Refund Days",
+        "sitesetting_title1":"Refrral",
+        "sitesetting_title2":"Fintech Fees",
+        "sitesetting_title3":"Customer Withdrawal Fees",
+        "sitesetting_title4":"Fintech limits",
+        "sitesetting_title5":"Merchant Withdrawal Fees",
+        "sitesetting_title6":"P2P Transfer Fees",
+        "sitesetting_title7":"ADD Money Fees",
+        "sitesetting_title8":"Settlement Days",
+        "sitesetting_refund_title":"Refund Days Details -",
+        "sitesetting_refund_subtitle":"Refund Days",
+        "sitesetting_referral_subtitle":"Referral Option",
+        "sitesetting_referral_subtitle1":"Invite Amount",
+        "sitesetting_referral_subtitle2":"Receive Amount",
+        "sitesetting_referral_subtitle3":"YES",
+        "sitesetting_referral_subtitle4":"No", 
+        "sitesetting_fintectfees_title":"SCAN AND PAY -",
+        "sitesetting_fintectfees_title1":"API TRANSACTION -", 
+        "sitesetting_fintectfees_title2":"EVENT BOOKING -",
+        "sitesetting_CustomerWithdrawalFees_title":"Fee Option",
+        "sitesetting_CustomerWithdrawalFees_title1":"Withdraw Fee",
+        "sitesetting_CustomerWithdrawalFees_title2":"Fixed Fee",
+        "sitesetting_CustomerWithdrawalFees_title3":"PERCENTAGE",
+        "sitesetting_CustomerWithdrawalFees_title4":"PRICE",
+        "sitesetting_FintechLimits_title":"Top up Per Month -", 
+        "sitesetting_FintechLimits_title1":"C-C Per Transaction -",
+        "sitesetting_FintechLimits_title2":"C-C Per Month -", 
+        "sitesetting_FintechLimits_title3":"C-M Per Transaction -",
+        "sitesetting_FintechLimits_title4":"C-C Per Month -",
+        "sitesetting_MerchantWithdrawalFees_title":"Fee Option",
+        "sitesetting_MerchantWithdrawalFees_title1":"PERCENTAGE",
+        "sitesetting_MerchantWithdrawalFees_title2":"AMOUNT",
+        "sitesetting_MerchantWithdrawalFees_title3":"Amount",
+        "sitesetting_MerchantWithdrawalFees_title4":"Fixed Fee",
+        "sitesetting_MerchantWithdrawalFees_title5":"Maximum Withdrawal Amount",
+        "sitesetting_MerchantWithdrawalFees_title6":"Minimum Withdrawal Amount",
+        "sitesetting_P2PTransferFees_title":"Fee Option",
+        "sitesetting_P2PTransferFees_title1":"PERCENTAGE",
+        "sitesetting_P2PTransferFees_title2":"AMOUNT",
+        "sitesetting_P2PTransferFees_title3":"Fee Value",
+        "sitesetting_P2PTransferFees_title4":"Fixed Value",
+        "sitesetting_AddMoneyFees_title":"Fee Option",
+        "sitesetting_AddMoneyFees_title1":"PERCENTAGE",
+        "sitesetting_AddMoneyFees_title2":"AMOUNT",
+        "sitesetting_AddMoneyFees_title3":"Fee Value",
+        "sitesetting_AddMoneyFees_title4":"Fixed Value",
+        "sitesetting_SettlementDays_title":"Settlement Days Details -",
+        "sitesetting_SettlementDays_title1":"Settlement Days"
+        
+    }
+
+}
